@@ -48,6 +48,7 @@ div#bloco2 {
     background-position: top right;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #bloco2 p {
