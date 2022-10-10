@@ -46,7 +46,7 @@ div.poesia {
 div#bloco2 {
     color: white;
     background-image: url('imagens/background001.jpg');
-    background-position: top right;
+    background-position: right center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -60,6 +60,7 @@ div#bloco2 {
 }
 
 footer {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: black;
     color: white;
     text-align: center;
