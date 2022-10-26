@@ -13,6 +13,7 @@
         table{
             width: 600px;
             border-collapse: collapse;
+            position: relative;
         }
 
         td, th {
@@ -24,6 +25,11 @@
             text-align: right;
         }
 
+        thead > tr > th {
+            position: sticky;
+            top: 0px;
+            background-color: lightgrey ;
+        }
         thead, tfoot {
             background-color: lightgray;
         }
